@@ -1,0 +1,73 @@
+
+h1 {
+	text-align:center;font-family: 'Cabin Sketch', cursive; font-size:49pt;
+}
+body {
+	background-image:url("9.jpg");font-family: 'Cabin Sketch', cursive;
+}
+
+ a:link, a:visited {
+	 color:white; font-size:20pt; padding:0.5%; text-decoration:none; text-align:center; display:block; width:50%; border:1px solid green; background-color:green; line-height:-5px;
+	 
+ }
+a:hover {
+	color:green; 
+}
+.topcorner {
+	position:absolute;
+	top:10%;
+	left:70%;
+	right:3.5%;
+}
+
+p {
+	text-align:center;
+}
+.text {
+	color:white;text-align:justify; font-size:22pt;padding:3%;font-family: 'Cabin Sketch', cursive; border:1px solid teal; background-color:green; 
+
+	
+}
+.navbarholder {
+	width:50%;
+}
+.w3-opacity {
+	font-size:16pt;
+}
+.navbar {
+	width:70%;
+	position:fixed;
+}
+.mainContent .main {
+	display:block;
+	margin:0 auto;
+	width:40%;
+	text-align:center;
+	display:inline-block;
+}
+.mainContent article img {
+	width:700px;
+}
+.mainContent {
+	height:initial;
+	display:block;
+	text-align:right;
+}
+.mainContent .secondary {
+	vertical-align:top;
+	width:40%;
+	display:inline-block;
+	background-color:green; 
+	padding:5px;
+	color:white;
+	font-size:18pt;
+	margin-top:3px;	
+}
+.mainContent .secondary p {
+	text-align:justify
+}
+.img {
+  display: block;
+  margin-left: 30px;
+  width: 40%;
+}
